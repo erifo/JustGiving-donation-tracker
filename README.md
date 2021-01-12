@@ -1,2 +1,2 @@
-# JustGiving-donation-tracker
- 
+# JustGiving Donation Tracker
+ Sporadically updated program designed to download donation data from a designated charity on [Just Giving](https://www.justgiving.com/). Will sort through and put latest and highest donation in separate textfiles in order to let a streaming software read and display the contents. Made for a friend raising money for cancer research.
